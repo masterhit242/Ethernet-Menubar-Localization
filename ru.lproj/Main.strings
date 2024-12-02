@@ -8,16 +8,16 @@
 "38g-zv-AaQ.title" = "Ethernet Menu";
 
 /* Class = "NSMenuItem"; title = "Quit Ethernet Menubar"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Quit Ethernet Menubar";
+"4sb-4s-VLi.title" = "Закрыть Ethernet Menubar";
 
 /* Class = "NSMenuItem"; title = "About Ethernet Menubar"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "About Ethernet Menubar";
+"5kV-Vb-QxS.title" = "Об Ethernet Menubar";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "6SY-L0-BTq"; */
-"6SY-L0-BTq.title" = "Применять";
+"6SY-L0-BTq.title" = "Применить";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
-"AYu-sK-qS6.title" = "Main Menu";
+"AYu-sK-qS6.title" = "Главное меню";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "Настройки…";
@@ -32,19 +32,19 @@
 "K1Z-FO-cr1.title" = "Отключено";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
-"Kd2-mp-pUS.title" = "Show All";
+"Kd2-mp-pUS.title" = "Показать все";
 
 /* Class = "NSViewController"; title = "Settings"; ObjectID = "LJN-S3-AQT"; */
 "LJN-S3-AQT.title" = "Настройки";
 
 /* Class = "NSMenuItem"; title = "Hide Ethernet Menubar"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Hide Ethernet Menubar";
+"Olw-nP-bQN.title" = "Скрыть Ethernet Menubar";
 
 /* Class = "NSButtonCell"; title = "Connected"; ObjectID = "R7N-2f-VCv"; */
-"R7N-2f-VCv.title" = "Связаны";
+"R7N-2f-VCv.title" = "Подключено";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
-"Vdr-fp-XzO.title" = "Hide Others";
+"Vdr-fp-XzO.title" = "Скрыть другие";
 
 /* Class = "NSButtonCell"; title = "Push Notifications"; ObjectID = "gzB-rk-sbj"; */
 "gzB-rk-sbj.title" = "Всплывающие уведомления";
