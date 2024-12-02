@@ -2,14 +2,14 @@
   Localization.strings
   Ethernet Menubar
 
-  Created by Victor Lobe on 17.01.21.
+  Created by masterhit242 on 02.12.24.
   
 */
-"Connected" = "Связанный";
+"Connected" = "Подключено";
 "Not available" = "Недоступно";
-"Connected, no internet access" = "Подключен, нет доступа в Интернет";
+"Connected, no internet access" = "Подключено, нет доступа в Интернет";
 "No cable connected" = "Нет подключения кабеля";
-"Do not launch at login" = "Не запускайте в логине";
-"Launch at login" = "Запустить на логине";
-"Quit" = "Покидать";
+"Do not launch at login" = "Не запускать при входе";
+"Launch at login" = "Запускать при входе";
+"Quit" = "Выход";
 "Open Network Preferences ..." = "Открыть сетевые настройки ...";
